@@ -11,7 +11,10 @@ main::after{
     min-height: 100vh;
     width: 80vw;
 
-    background: linear-gradient(-233deg, #000 40%, rgba(0,0,0,0) 65%) no-repeat;
+    /*C seguinte trecho de código teve que ser comentado porque eu não encontrei uma imagem do Usopp que ficasse com um bom enquadramento nesse efeito.
+    Futuramente pretendo retornar à esse projeto e resolver essa pendência*/
+
+    /* background: linear-gradient(-233deg, #000 40%, rgba(0,0,0,0) 65%) no-repeat; */
 }
 
 main .personagem{
